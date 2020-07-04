@@ -1,6 +1,13 @@
-c'est moi le fichier 5
-et toi quel est ton nom ?
+Username for 'https://github.com': kocedric
+Password for 'https://kocedric@github.com': 
+Énumération des objets: 22, fait.
+Décompte des objets: 100% (22/22), fait.
+Compression par delta en utilisant jusqu'à 2 fils d'exécution
+Compression des objets: 100% (20/20), fait.
+Écriture des objets: 100% (22/22), 1.98 Kio | 67.00 Kio/s, fait.
+Total 22 (delta 7), réutilisés 0 (delta 0)
+remote: Resolving deltas: 100% (7/7), done.
+To https://github.com/kocedric/first_project.git
+ * [new branch]      master -> master
+La branche 'master' est paramétrée pour suivre la branche distante 'master' depuis 'origin'.
 
-
-
-modifif sur la branche "master"
